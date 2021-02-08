@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 import telebot
-bot = telebot.TeleBot('r')
+bot = telebot.TeleBot('1447142761:AAF5qDXvAMLlIsMU1vX-j8K0dXpEptY3snk')
 keyboard1 = telebot.types.ReplyKeyboardMarkup()
 keyboard1.row('Привет', 'Заказать')
 
